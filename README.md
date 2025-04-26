@@ -4,7 +4,9 @@ La página web de la Biblioteca Triple Peaks es el segundo proyecto en el progra
 
 ## 🚀 Demo
 
-[Enlace a la demo o sitio en producción]((https://diegoperez10.github.io/library-web))  
+[Enlace a la demo o sitio en producción]
+(https://diegoperez10.github.io/library-web)
+
 
 ## 🛠️ Tecnologías Utilizadas
 
